@@ -112,8 +112,18 @@ alert(newMyName("David"));
 
   //Code Here
 
+  function outerFn(){
+    return function(){
+      return "David";
+    }
+  }
+
 //Now save the result of invoking outerFn into a variable called innerFn.
 
   //Code Here
 
+  innerFn = outerFn();
+
 //Now invoke innerFn.
+
+innerFn();
