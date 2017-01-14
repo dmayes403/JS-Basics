@@ -53,11 +53,11 @@ getName();
 //////////////////PROBLEM 4////////////////////
 
 
-
-
 //What is the difference between arguments and parameters?
 
   //Answer Here
+
+  //A paramter is the value accepted into a function. An argument is the value passed into a function when invoked.
 
 
 //////////////////PROBLEM 5////////////////////
