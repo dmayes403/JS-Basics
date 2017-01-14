@@ -69,6 +69,13 @@ getName();
 
   //Answer Here
 
+  // 0
+  // null
+  // ''
+  // ""
+  // undefined
+  // Nan
+  // false
 
 
 //////////////////PROBLEM 6////////////////////
