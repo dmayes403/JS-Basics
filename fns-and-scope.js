@@ -23,8 +23,11 @@ var name = 'Tyler';
 
 
   //Code Here
+function getName(){
+  prompt("What is your name?");
+}
 
-
+getName();
 //////////////////PROBLEM 3////////////////////
 
 
