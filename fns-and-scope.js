@@ -6,6 +6,16 @@ var name = 'Tyler';
 
   //Code Here
 
+  function isTyler(name){
+    if(name === 'Tyler'){
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  isTyler(name);
+
 //////////////////PROBLEM 2////////////////////
 
 
@@ -53,7 +63,7 @@ var name = 'Tyler';
 //Create a function called myName that returns your name
 
   //Code Here
-  
+
 
 
 //Now save the function definition of myName into a new variable called newMyName
