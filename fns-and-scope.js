@@ -37,6 +37,18 @@ getName();
 
   //Code Here
 
+  function welcome(){
+    function getName(){
+      return prompt("What is your name?");
+    }
+
+    yourName = getName();
+
+    alert("Welcome, " + yourName + "!");
+  }
+
+  welcome();
+
 
 //////////////////PROBLEM 4////////////////////
 
